@@ -18,6 +18,8 @@
         <module>pattern_01_abstrat_factory_2</module>
         <module>pattern_01_abstrat_factory_3</module>
         <module>pattern_iterator</module>
+        <module>pattern_01_factory</module>
+        <module>pattern_02_builder</module>
     </modules>
 
     <name>JavaDesignPattern</name>
